@@ -1,0 +1,547 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Mario",
+      "surnames": "Beltrán",
+      "title": "Frontend Software Engineer",
+      "description": "Software Engineer with 10+ years experience in Web Development, although I feel confident in other environments too. I love JavaScript and TypeScript in general, and React in particular. I don't just enjoy building appealing user interfaces –with the best experience and accessibility– but also implementing tests (yes, I do!), contributing to Open Source, and keeping up to date with the latest tools and technologies.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/c6853a53-cf0f-42e8-b775-1a89cad90e80_linkedin-photo-52949.linkedin-photo-52949",
+        "alt": "24/01/30/c6853a53-cf0f-42e8-b775-1a89cad90e80_linkedin-photo-52949.linkedin-photo-52949"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/mario-ba-90"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Belco90"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/6278737/mario-beltr%c3%a1n"
+      },
+      {
+        "type": "other",
+        "URL": "https://mario.dev/",
+        "description": "Website"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Hotjar",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/87c1c115-35aa-46c5-bae8-1bd3b1bfb033_linkedin-photo-52949.linkedin-photo-52949",
+            "alt": "24/01/30/87c1c115-35aa-46c5-bae8-1bd3b1bfb033_linkedin-photo-52949.linkedin-photo-52949"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Engineer, Frontend",
+            "startDate": "2021-08-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hotjar",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/d4c249a9-fa90-4af7-a2e8-8c5d968c8bac_linkedin-photo-52949.linkedin-photo-52949",
+            "alt": "24/01/30/d4c249a9-fa90-4af7-a2e8-8c5d968c8bac_linkedin-photo-52949.linkedin-photo-52949"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Software Engineer",
+            "startDate": "2021-02-01",
+            "finishDate": "2021-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Whalar",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/647ad28d-42a8-4c40-8a3c-924f3f54eca4_linkedin-photo-52949.linkedin-photo-52949",
+            "alt": "24/01/30/647ad28d-42a8-4c40-8a3c-924f3f54eca4_linkedin-photo-52949.linkedin-photo-52949"
+          }
+        },
+        "roles": [
+          {
+            "name": "Head of Frontend",
+            "startDate": "2018-08-01",
+            "finishDate": "2021-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SmartNinja",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/1cefc741-ee72-4143-b457-c6698a821d55_linkedin-photo-52949.linkedin-photo-52949",
+            "alt": "24/01/30/1cefc741-ee72-4143-b457-c6698a821d55_linkedin-photo-52949.linkedin-photo-52949"
+          }
+        },
+        "roles": [
+          {
+            "name": "Instructor",
+            "startDate": "2017-11-01",
+            "finishDate": "2019-03-31",
+            "challenges": [
+              {
+                "description": "Instructor of Web Development courses for SmartNinja Málaga."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Whalar",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/6093af60-0d47-4565-9a0c-f4065c14f2c1_linkedin-photo-52949.linkedin-photo-52949",
+            "alt": "24/01/30/6093af60-0d47-4565-9a0c-f4065c14f2c1_linkedin-photo-52949.linkedin-photo-52949"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ebury",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/e6249739-e068-4087-aad0-75784f10b5d2_linkedin-photo-52949.linkedin-photo-52949",
+            "alt": "24/01/30/e6249739-e068-4087-aad0-75784f10b5d2_linkedin-photo-52949.linkedin-photo-52949"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Web Developer",
+            "startDate": "2013-05-01",
+            "finishDate": "2017-09-30",
+            "challenges": [
+              {
+                "description": "I started as an intern for 6 months working on application forms and web maintenance while I was improving my knowledge of Python, Django and Javascript.\n\nAfter that, I continued as a web developer, involved in back-end and front-end. I get on well in both areas, which has given me enough versatility to move through different teams, working with technologies and frameworks of several platforms in the company, such as main back-office application or online services for clients.\n\nTechnologies:\nPython, Django, Celery, Behave, Javascript, Underscore, jQuery, Backbone, Marionette, Bootstrap, LESS, stickit.\n\nDaily tools:\nMercurial, Bitbucket, Jira, Pycharm."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Octoclairvoyant",
+          "description": "Compare GitHub changelogs across multiple releases in a single view.",
+          "URL": "https://octoclairvoyant.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/7d1b1408-a85e-4d71-9d43-89a9b497a971_mascot-logo.png",
+            "alt": "mascot-logo.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "ESLint plugin Testing Library",
+          "description": "ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library.",
+          "URL": "https://github.com/testing-library/eslint-plugin-testing-library",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/71d9c696-ad5b-4390-9183-de7acaed51d5_cleanshot-2024-01-30.png",
+            "alt": "CleanShot 2024-01-30 at 09.47.31.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-10-01",
+            "competences": [
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "eslint-plugin-testing-library reached 5 million weekly downloads",
+          "URL": "https://www.npmjs.com/package/eslint-plugin-testing-library",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/30/5ef36b80-4afd-40ef-9498-c3ac6c703cbf_cleanshot-2024-01-30.png",
+            "alt": "CleanShot 2024-01-30 at 09.47.31.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2023-08-01",
+        "relatedCompetences": [
+          {
+            "name": "NPM",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Monorepos - pnpm: a performant npm",
+          "URL": "https://dev.to/hotjar/monorepos-with-pnpm-part-1-a-performant-package-manager-5g41"
+        },
+        "type": "post",
+        "publishingDate": "2022-12-01",
+        "relatedCompetences": [
+          {
+            "name": "NPM",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Monorepos - sharding Jest in CI ",
+          "URL": "https://dev.to/hotjar/monorepos-sharding-jest-in-ci-47bc"
+        },
+        "type": "post",
+        "publishingDate": "2022-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Solving real-world problems by mixing several advanced React patterns and features",
+          "description": "Those examples about how to customize the theme of your app or that toggle component sample are fine to see the basic use case of new React patterns and features, but they are not enough to see how powerful these techniques are. In this talk we will see in depth how to put together most of the recent React advanced patterns and features (Compound Components, High-Order Components, State Initializers, Context API, Refs and of course Hooks!) to solve complex real-world problems in a simple, yet elegant way, including proper automated tests for them.",
+          "URL": "https://youtube.com/watch?v=UAmLUUNcix0"
+        },
+        "type": "talk",
+        "publishingDate": "2019-09-01",
+        "relatedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TestingLibrary",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Backbone",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github Actions",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/mario-ba-90",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/6278737/mario-beltr%c3%a1n",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/Belco90",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "belco90@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TestingLibrary",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Developer Evangelist & Advocate",
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Jest",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TestingLibrary",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I love to integrate different tasks into my day-to-day work: investigating new solutions, building PoCs, testing concepts to put into practice. I love to work on tooling and DX side of engineering, and I value being actively involved in different lifecycle phases of development.\n\nFurthermore, I'm a more individual contributor, so I'm not interested in managing other people. However, I'm always happy to get involved in the planning of the team.",
+    "projects": [
+      {
+        "name": "ESLint plugin Testing Library"
+      },
+      {
+        "name": "Octoclairvoyant"
+      }
+    ]
+  }
+}
